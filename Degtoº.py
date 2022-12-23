@@ -1,20 +1,17 @@
 import os
 import subprocess 
 import sys
-
-def prGreen(skk): print("\033[92m {}\033[00m" .format(skk))
-def prRed(skk): print("\033[91m {}\033[00m" .format(skk))
-def prGreen(skk): print("\033[92m {}\033[00m" .format(skk))
-def prYellow(skk): print("\033[93m {}\033[00m" .format(skk))
-def prLightPurple(skk): print("\033[94m {}\033[00m" .format(skk))
-def prPurple(skk): print("\033[95m {}\033[00m" .format(skk)) 
-def prCyan(skk): print("\033[96m {}\033[00m" .format(skk))
-def prLightGray(skk): print("\033[97m {}\033[00m" .format(skk))
-def prBlack(skk): print("\033[98m {}\033[00m" .format(skk))
+# colors
+yellow='\033[93m'
+gren='\033[92m'
+cyan='\033[96m'
+pink='\033[95m'
+red='\033[91m'
+b='\033[1m'
 #Esto para hacer hueco que queda muy feo en verdas
 #Un saludito a Lykos
-prGreen("""\
- _____               _           ___  
+print (gren+b+"""
+  _____               _           ___  
  |  __ \             | |         / _ \ 
  | |  | | ___  __ _  | |_ ___   | (_) |
  | |  | |/ _ \/ _` | | __/ _ \   \___/ 
@@ -22,10 +19,12 @@ prGreen("""\
  |_____/ \___|\__, |  \__\___/         
                __/ |                   
               |___/ 
-                    """)
+"""+b+gren)
 
-prCyan("Iphone GPS Location to Google maps converter ")
-prYellow("Created by G4T0 & Frodox ")
+print (cyan+b+"              [[ Iphone GPS Location to Google maps converter ]]"+b+gren)
+print (" ")
+print (red+b+"        (Created By G4T0 & Frodox)"+b+yellow)
+print (" ")
 
 x = input('Insert Cords:')
 
