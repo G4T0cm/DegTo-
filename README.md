@@ -25,13 +25,6 @@ git clone https://https://github.com/G4T0cm/DegTo-
 python3 DegToº.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 G4T0
 Frodox
@@ -42,7 +35,7 @@ Frodox
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU General Public License v3.0 License - see the LICENSE.md file for details
 
 ## Special Thanks
 Lykos
