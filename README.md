@@ -28,8 +28,8 @@ python3 DegToº.py
 * Insert coordinates
 
 ## Authors
-G4T0
-Frodox
+* G4T0
+* Frodox
 
 ## Version History
 * 0.1
