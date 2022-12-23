@@ -26,7 +26,7 @@ print (" ")
 print (red+b+"        (Created By G4T0 & Frodox)"+b+yellow)
 print (" ")
 
-x = input('Insert Cords:')
+x = input('Insert Coords:')
 
 cords = (x)
 
