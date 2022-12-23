@@ -18,7 +18,7 @@ Iphone metadates GPS coordinates converter
 ```git clone https://https://github.com/G4T0cm/DegTo-```
   
 Windows  
-* See [Releases](https://github.com/user/repo/blob/branch/other_file.md)
+* See [Releases](https://github.com/G4T0cm/DegTo-/releases)
 
 ### Executing program
 
