@@ -22,12 +22,10 @@ Windows
 
 ### Executing program
 
-* How to run the program
-* -Open program with python 
--Insert coordinates
 ```
 python3 DegToº.py
 ```
+* Insert coordinates
 
 ## Authors
 G4T0
