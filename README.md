@@ -8,13 +8,16 @@ Iphone metadates GPS coordinates converter
 
 ## Getting Started
 
-### Dependencies
+### Requirements
 
 * Python 3.0+
 
 ### Installing
 
+-Linux
 git clone https://https://github.com/G4T0cm/DegTo-
+-Windows
+See [Releases](https://github.com/user/repo/blob/branch/other_file.md)
 
 ### Executing program
 
